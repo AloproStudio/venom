@@ -1,0 +1,3 @@
+2022/09/24-17:02:40.300 379c Log #3: 3 ops saved to Table #4 OK
+2022/09/24-17:02:41.314 379c Archiving C:\Users\navsu\OneDrive\Desktop\Venon\tokens\sessionName5\Default\File System\Origins/000003.log: IO error: C:\Users\navsu\OneDrive\Desktop\Venon\tokens\sessionName5\Default\File System\Origins/000003.log: Could not rename file: File currently in use. (ChromeMethodBFE: 14::RenameFile::2)
+2022/09/24-17:02:41.314 379c Table #4: 3 entries OK
